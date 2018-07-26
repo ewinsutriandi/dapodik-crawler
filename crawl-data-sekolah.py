@@ -22,10 +22,10 @@ def prepareParams():
     global school_ids
     
     #database configurations
-    glIP = parser.get('db', 'ip')
-    glDBuser = parser.get('db', 'user')
-    glDBpass = parser.get('db', 'password')
-    glDBschema = parser.get('db', 'schema')
+    #glIP = parser.get('db', 'ip')
+    #glDBuser = parser.get('db', 'user')
+    #glDBpass = parser.get('db', 'password')
+    #glDBschema = parser.get('db', 'schema')
     
     #api configuration
     apiHost = parser.get('api', 'host')
@@ -47,10 +47,11 @@ def prepareParams():
 
     #prepare list
     school_ids = []
+    
 def crawlRekapKabupaten():
     logging.info("ambil data rekap sekolah di kabupaten")
     url = apiHost + rekapURL + rekapSekolah + rekapLevelParam + "=2&" + rekapWilParam +"="+kabCode 
-    print url
+    #print url
     sess_req = requests.session()
     rslt = sess_req.get(url)
     print rslt.status_code
@@ -68,14 +69,14 @@ def crawlRekapKabupaten():
         print "failed crawling rekap kab"
     
     print len(school_ids)
-    f = open('school_ids.txt', 'w')
+    f = open('school_ids2.txt', 'w')
     for schid in school_ids:
       f.write("%s\n" % schid)
 
 def crawlRekapKecamatan(kecCode):
     logging.info("ambil data rekap sekolah per kecamatan")
     url = apiHost + rekapURL + rekapProgresSP + rekapLevelParam + "=3&" + rekapWilParam +"="+kecCode 
-    print url
+    #print url
     sess_req = requests.session()
     retries = Retry(total=5, backoff_factor=1, status_forcelist=[ 502, 503, 504 ])
     sess_req.mount('http://', HTTPAdapter(max_retries=retries))
