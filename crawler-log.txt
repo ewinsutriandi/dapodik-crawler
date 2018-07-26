@@ -1,0 +1,815 @@
+INFO:root:ambil data rekap sekolah di kabupaten
+INFO:root:ambil data rekap sekolah di kabupaten
+INFO:root:ambil data rekap sekolah di kabupaten
+INFO:root:ambil data rekap sekolah di kabupaten
+INFO:root:ambil data rekap sekolah di kabupaten
+2018-07-24 13:02:20 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 13:02:21 INFO     pengambilan sukses
+2018-07-24 13:04:58 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 13:04:58 INFO     pengambilan sukses
+2018-07-24 13:06:03 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 13:06:03 INFO     pengambilan sukses
+2018-07-24 13:08:29 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 13:08:30 INFO     pengambilan sukses
+2018-07-24 18:26:27 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 18:26:30 INFO     pengambilan sukses
+2018-07-24 18:33:28 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 18:33:29 INFO     pengambilan sukses
+2018-07-24 19:26:27 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 19:26:29 INFO     pengambilan sukses
+2018-07-24 19:26:48 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 19:26:49 INFO     pengambilan sukses
+2018-07-24 19:26:49 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:26:55 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:26:56 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:27:59 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 19:28:03 INFO     pengambilan sukses
+2018-07-24 19:28:03 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:05 INFO     pengambilan sukses
+2018-07-24 19:28:05 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:06 INFO     pengambilan sukses
+2018-07-24 19:28:06 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:07 INFO     pengambilan sukses
+2018-07-24 19:28:07 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:08 INFO     pengambilan sukses
+2018-07-24 19:28:08 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:09 INFO     pengambilan sukses
+2018-07-24 19:28:09 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:10 INFO     pengambilan sukses
+2018-07-24 19:28:10 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:11 INFO     pengambilan sukses
+2018-07-24 19:28:11 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:12 INFO     pengambilan sukses
+2018-07-24 19:28:12 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:14 INFO     pengambilan sukses
+2018-07-24 19:28:14 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:17 INFO     pengambilan sukses
+2018-07-24 19:28:17 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 19:28:18 INFO     pengambilan sukses
+2018-07-24 19:28:18 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:48:01 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 20:48:02 INFO     pengambilan sukses
+2018-07-24 20:48:02 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:48:04 INFO     pengambilan sukses
+2018-07-24 20:48:04 INFO     ambil detail sekolah
+2018-07-24 20:48:24 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 20:48:42 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 20:48:42 INFO     pengambilan sukses
+2018-07-24 20:48:42 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:48:43 INFO     pengambilan sukses
+2018-07-24 20:48:43 INFO     ambil detail sekolah
+2018-07-24 20:49:12 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 20:49:21 INFO     pengambilan sukses
+2018-07-24 20:49:21 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:49:28 INFO     pengambilan sukses
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil detail sekolah
+2018-07-24 20:49:28 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:49:29 INFO     pengambilan sukses
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil detail sekolah
+2018-07-24 20:49:29 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:49:30 INFO     pengambilan sukses
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil detail sekolah
+2018-07-24 20:49:30 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:49:31 INFO     pengambilan sukses
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil detail sekolah
+2018-07-24 20:49:31 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:53:03 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 20:53:13 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 20:53:14 INFO     pengambilan sukses
+2018-07-24 20:53:14 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:53:17 INFO     pengambilan sukses
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil detail sekolah
+2018-07-24 20:53:17 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:53:18 INFO     pengambilan sukses
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 20:53:18 INFO     pengambilan sukses
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil detail sekolah
+2018-07-24 20:53:18 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:27 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 22:36:37 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 22:36:38 INFO     pengambilan sukses
+2018-07-24 22:36:38 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:43 INFO     pengambilan sukses
+2018-07-24 22:36:43 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:44 INFO     pengambilan sukses
+2018-07-24 22:36:44 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:45 INFO     pengambilan sukses
+2018-07-24 22:36:45 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:46 INFO     pengambilan sukses
+2018-07-24 22:36:46 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:53 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:36:58 INFO     pengambilan sukses
+2018-07-24 22:36:58 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:02 INFO     pengambilan sukses
+2018-07-24 22:37:02 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:03 INFO     pengambilan sukses
+2018-07-24 22:37:03 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:07 INFO     pengambilan sukses
+2018-07-24 22:37:07 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:08 INFO     pengambilan sukses
+2018-07-24 22:37:08 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:10 INFO     pengambilan sukses
+2018-07-24 22:37:10 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:14 INFO     pengambilan sukses
+2018-07-24 22:37:14 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:19 INFO     pengambilan sukses
+2018-07-24 22:37:19 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:20 INFO     pengambilan sukses
+2018-07-24 22:37:20 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:24 INFO     pengambilan sukses
+2018-07-24 22:37:24 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:30 INFO     pengambilan sukses
+2018-07-24 22:37:30 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:31 INFO     pengambilan sukses
+2018-07-24 22:37:31 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:32 INFO     pengambilan sukses
+2018-07-24 22:37:32 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:33 INFO     pengambilan sukses
+2018-07-24 22:37:33 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:37:37 INFO     pengambilan sukses
+2018-07-24 22:44:21 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 22:44:22 INFO     pengambilan sukses
+2018-07-24 22:44:22 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:44:53 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 22:44:54 INFO     pengambilan sukses
+2018-07-24 22:44:54 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:44:56 INFO     pengambilan sukses
+2018-07-24 22:44:56 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:44:57 INFO     pengambilan sukses
+2018-07-24 22:44:57 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:44:59 INFO     pengambilan sukses
+2018-07-24 22:44:59 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:00 INFO     pengambilan sukses
+2018-07-24 22:45:00 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:04 INFO     pengambilan sukses
+2018-07-24 22:45:04 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:08 INFO     pengambilan sukses
+2018-07-24 22:45:08 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:09 INFO     pengambilan sukses
+2018-07-24 22:45:09 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:10 INFO     pengambilan sukses
+2018-07-24 22:45:10 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:13 INFO     pengambilan sukses
+2018-07-24 22:45:13 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:14 INFO     pengambilan sukses
+2018-07-24 22:45:14 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:14 INFO     pengambilan sukses
+2018-07-24 22:45:14 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:15 INFO     pengambilan sukses
+2018-07-24 22:45:15 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:16 INFO     pengambilan sukses
+2018-07-24 22:45:16 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:16 INFO     pengambilan sukses
+2018-07-24 22:45:16 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:17 INFO     pengambilan sukses
+2018-07-24 22:45:17 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:25 INFO     pengambilan sukses
+2018-07-24 22:45:25 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:26 INFO     pengambilan sukses
+2018-07-24 22:45:26 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:27 INFO     pengambilan sukses
+2018-07-24 22:45:27 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:30 INFO     pengambilan sukses
+2018-07-24 22:45:30 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:45:34 INFO     pengambilan sukses
+2018-07-24 22:47:33 INFO     ambil data rekap sekolah di kabupaten
+2018-07-24 22:47:34 INFO     pengambilan sukses
+2018-07-24 22:47:34 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:36 INFO     pengambilan sukses
+2018-07-24 22:47:36 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:37 INFO     pengambilan sukses
+2018-07-24 22:47:37 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:37 INFO     pengambilan sukses
+2018-07-24 22:47:37 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:38 INFO     pengambilan sukses
+2018-07-24 22:47:38 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:41 INFO     pengambilan sukses
+2018-07-24 22:47:41 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:42 INFO     pengambilan sukses
+2018-07-24 22:47:42 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:43 INFO     pengambilan sukses
+2018-07-24 22:47:43 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:44 INFO     pengambilan sukses
+2018-07-24 22:47:44 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:45 INFO     pengambilan sukses
+2018-07-24 22:47:45 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:46 INFO     pengambilan sukses
+2018-07-24 22:47:46 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:46 INFO     pengambilan sukses
+2018-07-24 22:47:46 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:47 INFO     pengambilan sukses
+2018-07-24 22:47:47 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:48 INFO     pengambilan sukses
+2018-07-24 22:47:48 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:52 INFO     pengambilan sukses
+2018-07-24 22:47:52 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:53 INFO     pengambilan sukses
+2018-07-24 22:47:53 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:54 INFO     pengambilan sukses
+2018-07-24 22:47:54 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:55 INFO     pengambilan sukses
+2018-07-24 22:47:55 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:56 INFO     pengambilan sukses
+2018-07-24 22:47:56 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:57 INFO     pengambilan sukses
+2018-07-24 22:47:57 INFO     ambil data rekap sekolah per kecamatan
+2018-07-24 22:47:58 INFO     pengambilan sukses
